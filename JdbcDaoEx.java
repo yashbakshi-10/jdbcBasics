@@ -45,8 +45,8 @@ class StudentDAO{
 	Student s=new Student();	//create obj of the class
 	
 	String url="jdbc:mysql://localhost:3306/test"; //this url, user-name & password can vary for other systems
-	String username="root";
-	String password="root";
+	String username="root2";
+	String password="root2";
 	
 	Connection con;
 	Statement st;
